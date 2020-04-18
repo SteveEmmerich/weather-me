@@ -1,0 +1,7 @@
+{
+  "name": "weatherMe",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
