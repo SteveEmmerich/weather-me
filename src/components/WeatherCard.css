@@ -1,0 +1,23 @@
+.weatherContainer {
+  background-repeat: no-repeat;
+  font-size: xx-large;
+}
+.weatherContainerBounds {
+  width: max-content;
+  height: max-content;
+}
+.drizzle {
+  background-image: url('../assets/img/rainy-4.svg');
+}
+.snow {
+  background-image: url('../assets/img/snowy-1.svg');
+}
+.rain {
+  background-image: url('../assets/img/rainy-3.svg');
+}
+.clouds {
+  background-image: url('../assets/img/cloudy.svg');
+}
+.day {
+  background-image: url('../assets/img/day.svg');
+}
